@@ -15,5 +15,5 @@ This pipeline job requires the packages:
 ## Example
 
 ```python
---8<-- "https://raw.githubusercontent.com/rodalynbarce/samples/feature/integration/pipelines/deploy/OpenSTEF-Basecase-Forecast-Databricks.py"
+--8<-- "https://raw.githubusercontent.com/rodalynbarce/samples/feature/integration/pipelines/deploy/OpenSTEF-Basecase-Forecast-Databricks/pipeline.py"
 ```

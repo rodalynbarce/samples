@@ -4,7 +4,7 @@ This article provides a guideline for creating a basecase forecast with OpenSTEF
 ## Prerequisites
 This pipeline job requires the packages:
 
-* [rtdip-sdk](../../../../../getting-started/installation.md)
+* [RTDIP SDK](../../../../../getting-started/installation.md#installing-the-rtdip-sdk)
 
 ## Components
 |Name|Description|

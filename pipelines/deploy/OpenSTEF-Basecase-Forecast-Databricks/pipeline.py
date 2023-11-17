@@ -28,7 +28,8 @@ class ConfigSettings(BaseSettings):
     db_schema: str = "{YOUR-SCHEMA-NAME}"
     proxies: Union[dict[str, str], None] = None
     externally_posted_forecasts_pids: list = None
-
+    teams_alert_url: str = "None"
+    teams_monitoring_url: str = "None"
 
 config = ConfigSettings()
 
